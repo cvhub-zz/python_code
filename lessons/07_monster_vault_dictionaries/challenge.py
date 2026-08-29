@@ -43,3 +43,4 @@ print("Available monsters in database:", list(creatures_database.keys()))
 
 
 # TODO 4: Print the updated list of creature names in the encyclopedia!
+

@@ -50,3 +50,4 @@ number = 1
 story = f"One day, a {adj} {creature} stomped into town demanding {number} giant {food}s!"
 print("\nHere is your wacky story:")
 print(story)
+

@@ -24,3 +24,4 @@ if (player_level >= 5 and has_gold_key) or is_master_thief:
     print("🔓 *CLICK!* The giant iron vault swings open!")
 else:
     print("🔒 *CLANK!* The door is locked tight. Come back when you are ready!")
+

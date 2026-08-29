@@ -41,3 +41,4 @@ An interactive virtual pet simulator featuring:
 
 ## 🏆 Final Certificate
 Upon finishing these games and adding your own mod, you officially earn the **🎮 Master Game Developer Badge**!
+

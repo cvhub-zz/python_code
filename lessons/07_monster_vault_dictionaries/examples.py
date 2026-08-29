@@ -48,3 +48,4 @@ if target_monster in bestiary:
     print(f"HP:     {info['hp']}")
     print(f"Attack: {info['attack']}")
     print(f"Drops:  {info['loot']}")
+

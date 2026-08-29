@@ -27,3 +27,4 @@ if goblin_hp <= 0:
     print(f"\n🏆 Grumble the Goblin King was defeated! Sir Galahad is victorious!")
 else:
     print(f"Grumble has {goblin_hp} HP left!")
+

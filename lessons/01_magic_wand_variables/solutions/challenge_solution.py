@@ -22,3 +22,4 @@ print("========================================")
 power_level = 100
 print("⚡ POWER UP ACTIVATED! New Power Level:", power_level, "/ 100")
 print("Mission accomplished, hero!")
+

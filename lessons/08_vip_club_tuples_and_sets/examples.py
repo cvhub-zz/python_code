@@ -55,3 +55,4 @@ print("🌈 All elements combined:", all_elements)
 # Difference (-): Team elements not in dungeon
 unique_to_team = my_team_elements - dungeon_elements
 print("🔥 Team elements not in dungeon:", unique_to_team)
+

@@ -36,3 +36,4 @@ elif choice == "outside":
 
 else:
     print("\n❓ You were too confused by the options and stood still as the clock struck midnight! ⏰")
+

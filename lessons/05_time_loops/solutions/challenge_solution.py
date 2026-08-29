@@ -34,3 +34,4 @@ while not guessed_correctly:
         print("📈 Too low! Try a bigger number.")
     else:
         print("📉 Too high! Try a smaller number.")
+

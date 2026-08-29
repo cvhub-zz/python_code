@@ -44,3 +44,4 @@ print("========================================")
 # TODO 7: Level Up! Increase power_level by changing it to 100, then print it out!
 # power_level = 100
 # print("⚡ POWER UP ACTIVATED! New Power Level:", power_level)
+

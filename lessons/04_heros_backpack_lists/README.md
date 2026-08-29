@@ -56,3 +56,4 @@ Computers count starting from **0**, not 1! Think of list items like slots in yo
 
 ## 🏅 Badge to Unlock
 Earn the **🎒 Loot Collector Badge** once you manage your inventory like a pro!
+

@@ -71,3 +71,4 @@ print(f"Each friend gets {slices_each} slices, with {leftovers} slice(s) left fo
 
 ## 🏅 Badge to Unlock
 Earn the **🧪 Math Alchemist Badge** when your pizza party calculator runs!
+

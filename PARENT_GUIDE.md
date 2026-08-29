@@ -64,3 +64,4 @@ Once your child finishes a challenge, encourage them to customize:
 - Add an extra riddle or boss fight to `03_decision_dungeon`.
 - Change monster stats and weaknesses in `07_monster_vault_dictionaries`.
 - Build their own creature in `09_capstone_arcade/virtual_pet.py`.
+

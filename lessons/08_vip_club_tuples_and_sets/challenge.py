@@ -46,3 +46,4 @@ print(f"Gadgets both agents have in common: {common_gadgets}")
 # TODO 5: Find all unique gadgets between both agents combined using union (|).
 all_gadgets = set()
 print(f"Total gadget arsenal combined: {all_gadgets}")
+

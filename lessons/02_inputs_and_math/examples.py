@@ -30,3 +30,4 @@ leftover_slices = total_slices % eaters       # Leftover slices (remainder)
 print(f"We have {total_slices} slices for {eaters} people.")
 print(f"Each person eats: {slices_per_person} slices.")
 print(f"Leftover slices: {leftover_slices} slice(s).")
+

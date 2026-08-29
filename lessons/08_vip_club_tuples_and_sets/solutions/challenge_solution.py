@@ -32,3 +32,4 @@ print(f"Total gadget arsenal combined: {all_gadgets}")
 
 exclusive_alpha = agent_alpha_gadgets - agent_beta_gadgets
 print(f"Gadgets only Alpha has: {exclusive_alpha}")
+

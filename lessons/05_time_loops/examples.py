@@ -42,3 +42,4 @@ while attempts < 3:
 
 if attempts == 3:
     print("🚨 ALARM! Security locked down!")
+

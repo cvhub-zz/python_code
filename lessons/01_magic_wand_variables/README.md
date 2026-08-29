@@ -61,3 +61,4 @@ print(gold_coins)  # Now prints 50!
 
 ## 🏅 Badge to Unlock
 Earn the **🪄 Novice Scribe Badge** once your superhero card prints out without any errors!
+

@@ -43,3 +43,4 @@ creatures_database[new_name] = {
 
 print(f"\n🎉 Successfully registered {new_name} in the encyclopedia!")
 print("Updated database index:", list(creatures_database.keys()))
+

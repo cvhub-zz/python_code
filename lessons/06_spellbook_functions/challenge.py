@@ -39,3 +39,4 @@ show_character_card("Grumble", "Goblin King", goblin_hp)
 dmg = attack("Sir Galahad", "Grumble", 25, is_critical=True)
 goblin_hp -= dmg
 print(f"Grumble the Goblin has {goblin_hp} HP remaining!")
+

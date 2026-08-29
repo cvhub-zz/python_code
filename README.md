@@ -51,3 +51,4 @@ python3 lessons/01_magic_wand_variables/challenge.py
 ---
 
 *Parents and mentors: Please check out [PARENT_GUIDE.md](PARENT_GUIDE.md) for tips on guiding without giving away answers!*
+

@@ -65,3 +65,4 @@ print(f"💥 Critical Strike dealt {total_damage} damage!")
 
 ## 🏅 Badge to Unlock
 Earn the **📜 Grand Sorcerer Badge** once your functions calculate damage and heal characters flawlessly!
+

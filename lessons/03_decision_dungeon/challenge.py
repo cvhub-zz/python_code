@@ -41,3 +41,4 @@ elif choice == "down":
 # - Print: "You wandered around in circles and got lost in the fog!"
 else:
     print("❓ You wandered around in circles and got lost in the fog!")
+

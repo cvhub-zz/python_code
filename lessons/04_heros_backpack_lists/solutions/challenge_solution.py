@@ -36,3 +36,4 @@ else:
 print("\n🎒 FINAL BACKPACK CONTENTS:")
 print(hero_backpack)
 print("🎉 Ready for the adventure!")
+

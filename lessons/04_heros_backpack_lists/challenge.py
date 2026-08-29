@@ -37,3 +37,4 @@ print("Starting Backpack:", hero_backpack)
 # TODO 6: Print out the final organized backpack!
 print("\n🎒 FINAL BACKPACK CONTENTS:")
 print(hero_backpack)
+

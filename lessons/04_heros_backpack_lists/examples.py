@@ -39,3 +39,4 @@ if "Health Potion" in inventory:
 dropped = inventory.pop()
 print(f"Dropped {dropped} to make room for heavier armor!")
 print("Final Backpack State:", inventory)
+

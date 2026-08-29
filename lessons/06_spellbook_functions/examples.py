@@ -37,3 +37,4 @@ print(f"After drinking Regular Potion: {player_hp} HP")
 # Drinking a +50 Super Potion (capped at 100 max)
 player_hp = heal_player(player_hp, 50)
 print(f"After drinking Super Potion: {player_hp} HP (Max reached!)")
+

@@ -32,3 +32,4 @@ story = (
 
 print("\n--- 🌟 YOUR WACKY STORY ---")
 print(story)
+

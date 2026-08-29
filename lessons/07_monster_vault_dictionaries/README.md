@@ -68,3 +68,4 @@ for key, value in player.items():
 
 ## 🏅 Badge to Unlock
 Earn the **🗝️ Vault Keeper Badge** once your monster lookup system works smoothly!
+
